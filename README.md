@@ -3,6 +3,6 @@ This is a school project to simulate movement of a ball bouncing on an uneven te
 
 ![](image/bouncingball.png)
 
-Authon: Michal Szabó\
+Author: Michal Szabó\
 Contact: szmiso1999@gmail.com\
 Year: 2020
