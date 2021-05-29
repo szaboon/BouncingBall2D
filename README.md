@@ -5,4 +5,4 @@ This is a school project to simulate movement of a ball bouncing on an uneven te
 
 Author: Michal Szabó\
 Contact: szmiso1999@gmail.com\
-Year: 2020
+Year: 2020, Brno
