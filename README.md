@@ -1,5 +1,5 @@
 # BouncingBall2D
-School project that simulates the movement of a ball, bouncing on an uneven terrain.
+School project that simulates the movement of the ball, bouncing on an uneven terrain.
 
 ![](image/bouncingball.png)
 
